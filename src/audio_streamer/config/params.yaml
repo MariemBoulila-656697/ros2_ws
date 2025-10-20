@@ -1,3 +1,5 @@
+#il file yaml non viene caricato automaticamente bisogna dire a ROS2 di usarlo
+#lo specifichiamo nel file launch
 audio_publisher:
   ros__parameters:
     device_index: 2

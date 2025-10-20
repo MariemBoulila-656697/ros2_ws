@@ -1,0 +1,23 @@
+audio_publisher:
+  ros__parameters:
+    device_index: 2
+    device_name: "Scarlett 18i16 4th Gen"
+    sample_rate: 44100
+    channels: 4
+    chunk_size: 1024
+    chunk_duration: 0.1
+    sample_format: "S16LE"
+    coding_format: "PCM"
+    publish_audio_topic: "audio_stream"
+    publish_info_topic: "audio_info"
+
+audio_subscriber:
+  ros__parameters:
+    output_file: "output.wav"
+    playback_enabled: true
+    output_device_index: 15
+    buffer_size: 1024
+    sample_rate: 44100
+    channels: 4
+    output_files: ["mic_01.wav", "mic_02.wav", "mic_03.wav", "mic_04.wav"] 
+    subscribe_info_topic: "audio_info"

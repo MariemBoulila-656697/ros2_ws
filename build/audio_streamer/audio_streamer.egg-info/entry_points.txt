@@ -1,0 +1,4 @@
+[console_scripts]
+audio_pub = audio_streamer.audio_publisher:main
+audio_sub = audio_streamer.audio_subscriber:main
+

@@ -1,0 +1,11 @@
+/home/mariem/ros2_ws/build/audio_play/CMakeFiles/uninstall.dir
+/home/mariem/ros2_ws/build/audio_play/CMakeFiles/audio_play_uninstall.dir
+/home/mariem/ros2_ws/build/audio_play/CMakeFiles/audio_play.dir
+/home/mariem/ros2_ws/build/audio_play/CMakeFiles/audio_play_node.dir
+/home/mariem/ros2_ws/build/audio_play/CMakeFiles/test.dir
+/home/mariem/ros2_ws/build/audio_play/CMakeFiles/edit_cache.dir
+/home/mariem/ros2_ws/build/audio_play/CMakeFiles/rebuild_cache.dir
+/home/mariem/ros2_ws/build/audio_play/CMakeFiles/list_install_components.dir
+/home/mariem/ros2_ws/build/audio_play/CMakeFiles/install.dir
+/home/mariem/ros2_ws/build/audio_play/CMakeFiles/install/local.dir
+/home/mariem/ros2_ws/build/audio_play/CMakeFiles/install/strip.dir
